@@ -13,8 +13,11 @@ Total: 🔥 105 puntos 🔥
 
 
 #### Para ejecutar:
-1. ¡Descomprimir objetos!
-2. Correr el main.py
-3. Seleccionar opción 1
-4. Esperar a que se genere el archivo
-5. Observar la escena navideña
+1. Descomprimir objetos
+2. Sacarlos de las capertas y dejarlos en carpeta models
+3. Correr el main.py
+4. Seleccionar opción 1
+5. Esperar a que se genere el archivo
+6. Observar la escena navideña
+
+![Screenshot](Proyecto1.bmp)
