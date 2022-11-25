@@ -13,7 +13,8 @@ Total: 🔥 105 puntos 🔥
 
 
 #### Para ejecutar:
-1. Correr el main.py
-2. Seleccionar opción 1
-3. Esperar a que se genere el archivo
-4. Observar la escena navideña
+1. ¡Descomprimir objetos!
+2. Correr el main.py
+3. Seleccionar opción 1
+4. Esperar a que se genere el archivo
+5. Observar la escena navideña
